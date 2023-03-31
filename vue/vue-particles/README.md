@@ -1,24 +1,5 @@
 # vue-particles
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 参考
++ [Vue 动态粒子特效(vue-particles)](https://blog.fanjunyang.zone/archives/vue-dynamic-particle)
