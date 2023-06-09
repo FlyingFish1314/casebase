@@ -1,10 +1,10 @@
-a = 3
-{
+// a = 3
+// {
 
-  a = 2
+//   a = 2
 
-  function a () { }
+//   function a () { }
 
-  a = 1
-}
-console.log(a)
+//   a = 1
+// }
+// console.log(a)
